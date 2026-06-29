@@ -1,1 +1,2 @@
 # Learning-App
+App pentru a veni in ajutorul elevilor de liceu in invatarea unor anumite concepte din anumite materii, (ex Limite -> Matematica). Aceasta dezvolta gandirea critica a elevului, nu doar invatarea propiu-zisa. Folosim modele open source pe care le vom train-ui cu materiale pedagogice cat si materiale specifice fiecarei arii de invatare. App consta intr-un chat LLM-ul. User-ul are optiunea de a isi incarcara materialele de pe care doreste sa invete (PDF/WORD/PNG), dar si de a invata de pe materialele cu care modelul este antrenat. 
